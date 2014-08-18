@@ -56,7 +56,7 @@ To pass the course you will need to:
 ##Web Development
 ###The Web Application Stack
 
-![WebStack](assets/command_line/server-side.jpg)
+![WebStack](../../assets/command_line/server-side.jpg)
 
 ---
 
