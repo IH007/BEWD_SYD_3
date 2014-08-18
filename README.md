@@ -93,4 +93,4 @@ In order to pass this course General Assembly students must:
 
 ##QUESTIONS
 
-If you have any questions please send them to [Jessica Skeete](jessicat@generalassemb.ly)
+If you have any questions please send them to [Shirren Premaratne](shirren@me.com)
