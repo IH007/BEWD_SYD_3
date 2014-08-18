@@ -93,4 +93,4 @@ In order to pass this course General Assembly students must:
 
 ##QUESTIONS
 
-If you have any questions please send them to [Shirren Premaratne](shirren@me.com)
+If you have any questions please send them to [Shirren Premaratne](mailto:shirren@me.com)
