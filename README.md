@@ -1,25 +1,24 @@
-
 ![BEWD 1.0.2](assets/instructor_bewd_logo.png)
 
 ##GETTING STARTED WITH CURRICULUM
 
-Welcome to the BEWD Curriculum v. 1.0.2. 
+Welcome to the BEWD Curriculum v. 1.0.2.
 
-This repository contains all the materials GA supplies its Back-End Web Development instructors. 
+This repository contains all the materials GA supplies its Back-End Web Development instructors.
 
-General Assembly's Back-End Web Development (BEWD) course is made up of 20 lessons that are 3 hours each. The first 6 classes cover Ruby Basics and the following 14 cover Ruby on Rails. 
+General Assembly's Back-End Web Development (BEWD) course is made up of 20 lessons that are 3 hours each. The first 6 classes cover Ruby Basics and the following 14 cover Ruby on Rails.
 
 ###Before The Course Responsibilities
- 
-We __highly recommend__ you begin preparing your lessons before the course starts. You should start prepping to teach the materials 4 - 6 weeks prior to course launch. A good bench mark is to prepare the Ruby section (lesson 1 - 6 )  before the course begins. 
 
-During these preparation weeks you should: 
+We __highly recommend__ you begin preparing your lessons before the course starts. You should start prepping to teach the materials 4 - 6 weeks prior to course launch. A good bench mark is to prepare the Ruby section (lesson 1 - 6 )  before the course begins.
+
+During these preparation weeks you should:
 
 *	Update slides for each lesson.
 
 *	Review solutions and make sure you agree with the way it was coded. Keep in mind students coding level, but don't share code you don't agree with.
 
-*	Review all curriculum materials and think about how you would like to apply your teaching style to the classroom. 
+*	Review all curriculum materials and think about how you would like to apply your teaching style to the classroom.
 
 
 ##AVAILABLE MATERIALS
@@ -40,7 +39,7 @@ We've supplied a folder for each lesson. In these folders we've included:
 
 
 ###How To Prepare For Each Lesson
-We will provide a __private repository__ for your course. This is how you will share code files, notes and slides with students. 
+We will provide a __private repository__ for your course. This is how you will share code files, notes and slides with students.
 Students will fork your repository and use the fork as their class repo.
 
 1.	Read the instructor agenda in the lesson folder.
@@ -66,20 +65,20 @@ Students will fork your repository and use the fork as their class repo.
 
 *	We suggest using reveal.js with external markdown. One of our BEWD instructors, Joe Leo wrote a [skeleton framework](https://github.com/jleo3/reveal.ga) for working with BEWD and a locally running reveal.js server. An instructor can start with this and then bring his/her slides over from the BEWD curriculum repo.
 
-*	See [here](https://github.com/hakimel/reveal.js) for further documentation about Reveal.js. 
+*	See [here](https://github.com/hakimel/reveal.js) for further documentation about Reveal.js.
 
-The slides are a skeletal deck and require your input! If there are slides you do not agree with then update them. If you want to introduce topics in a different order, then reorder them. 
+The slides are a skeletal deck and require your input! If there are slides you do not agree with then update them. If you want to introduce topics in a different order, then reorder them.
 
 
 ##GRADING
 
 In order to pass this course General Assembly students must:
 
-*	Complete and submit 80% of all course homework assignments. 
-	*	Students will receive feedback from instructors on their assignments within 2 - 4 days. 
-	
+*	Complete and submit 80% of all course homework assignments.
+	*	Students will receive feedback from instructors on their assignments within 2 - 4 days.
 
-*	Complete and submit the course project (which may include a presentation), earning 	proficiency. See [rubric](final_project_rubric.md). 
+
+*	Complete and submit the course project (which may include a presentation), earning 	proficiency. See [rubric](final_project_rubric.md).
 
 
 ##MORE TERMINOLOGY
@@ -90,10 +89,8 @@ In order to pass this course General Assembly students must:
 | __Lesson__ |One 3 hour session of the course. |
 | __In Class Lab (ICL)__|Exercise files that are to be used in class as examples and practice.|
 |[Final Project](Final_Project/final_project_requirements.md)|The personal project each student will submit and present. Share the project requirements as early as possible.|
-	
+
 
 ##QUESTIONS
 
 If you have any questions please send them to [Jessica Skeete](jessicat@generalassemb.ly)
-
-
